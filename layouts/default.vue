@@ -34,6 +34,10 @@ body{
   font-family: 'Montserrat', sans-serif;
   margin: 0;
 }
+a {
+  color: black;
+  text-decoration: none;
+}
 header {
   display: flex;
   justify-content: space-between;
